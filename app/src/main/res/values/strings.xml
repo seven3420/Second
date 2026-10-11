@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">卓怡霖 2024110152</string>
+    <string name="area1_title">【区1】动态添加文本控件</string>
+    <string name="btn_add_text">新增一行文本</string>
+    <string name="area2_title">【区2】ProgramAdviser(MVC)</string>
+    <string name="hint_input">输入你的编程问题</string>
+    <string name="btn_query">查询建议</string>
+    <string name="text_line_prefix">动态文本第 %d 行</string>
+    <string name="tip_empty">请输入有效问题！</string>
+    <string name="tip_bug">建议：先看Logcat，复现bug，定位代码行</string>
+    <string name="tip_memory">建议：注意对象回收，避免内存泄漏</string>
+    <string name="tip_default">收到你的问题：%s\n建议：分步调试，拆解问题</string>
+</resources>
